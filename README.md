@@ -1,7 +1,11 @@
 WaveShare
 ===========
 
-This repository is a functional library for 7.5" WaveShare ePaper displays.
+Fork
+===========
+I Made this as a fork of ChristianHering/WaveShare which is for 7.5" displays.
+
+This repository is a functional library for 6.0" WaveShare ePaper displays.
 
 It provides:
 
